@@ -1,0 +1,8 @@
+# Lệnh setup Tool
+- apt update
+- pkg update
+- pkg install python
+- pkg install git
+- git clone https://github.com/Misspc321/mis_tiktok.git
+- cd mis_tiktok
+- python tds.py
